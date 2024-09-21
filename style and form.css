@@ -1,0 +1,20 @@
+html{
+background-image:url('https://th.bing.com/th/id/R.91049b24372242521d542be2874ebe51?rik=vGS1t6NKnWfZXg&riu=http%3a%2f%2fwww.mexatk.com%2fwp-content%2fuploads%2f2014%2f10%2f%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d8%a7%d9%87%d8%b1%d8%a7%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-3.jpg&ehk=4MmTpAN5uIvzrG913pykAnWN1%2bLAaRrGHA1eT%2fGc2EU%3d&risl=&pid=ImgRaw&r=0') ;
+box-sizing: border-box;
+background-repeat: no-repeat;
+background-size: cover;
+}
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+*{
+box-sizing: inherit;
+font-family:'raleway', sans-serif ;
+}
+body{
+    background: rgba(255, 255, 255, 0.74);
+    width: 90%;
+    max-width: 800px;
+    margin: 50px auto;
+    font-family: 'ralway';
+    padding: 20px;
+    border-radius: 10px;
+}
